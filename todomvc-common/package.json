@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "todomvc-common@1.0.5",
+      "D:\\develop\\web-study\\mxg\\vue-study\\todomvc"
+    ]
+  ],
+  "_from": "todomvc-common@1.0.5",
+  "_id": "todomvc-common@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-jD55msnx/BVz4MIE+YRRCCaRRzA=",
+  "_location": "/todomvc-common",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "todomvc-common@1.0.5",
+    "name": "todomvc-common",
+    "escapedName": "todomvc-common",
+    "rawSpec": "1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/todomvc-common/download/todomvc-common-1.0.5.tgz",
+  "_spec": "1.0.5",
+  "_where": "D:\\develop\\web-study\\mxg\\vue-study\\todomvc",
+  "author": {
+    "name": "TasteJS"
+  },
+  "bugs": {
+    "url": "https://github.com/tastejs/todomvc-common/issues"
+  },
+  "description": "Common TodoMVC utilities used by our apps",
+  "files": [
+    "base.js",
+    "base.css"
+  ],
+  "homepage": "https://github.com/tastejs/todomvc-common#readme",
+  "keywords": [
+    "todomvc",
+    "tastejs",
+    "util",
+    "utilities"
+  ],
+  "license": "MIT",
+  "main": "base.js",
+  "name": "todomvc-common",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tastejs/todomvc-common.git"
+  },
+  "style": "base.css",
+  "version": "1.0.5"
+}
